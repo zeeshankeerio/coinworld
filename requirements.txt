@@ -1,0 +1,8 @@
+streamlit == 1.6
+pandas == 1.3.2
+click==8
+os
+requests == 2.31.0
+tempfile
+base64
+ta == 0.10.2
